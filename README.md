@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaoNery89
-- 👀 I’m interested in Mobile and Front End Development
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Mobile stuffs
+- 👀 I’m interested in Data Analisys Development
+- 🌱 I’m currently learning SQL, Pl/SQL
+- 💞️ I’m looking to collaborate on Analisys stuffs
 - 📫 How to reach me https://www.linkedin.com/in/joao-nery/
 
 
