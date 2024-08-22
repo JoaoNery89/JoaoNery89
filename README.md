@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoNery89
 - 👀 I’m interested in Data Analisys Development
-- 🌱 I’m currently learning SQL, Pl/SQL
+- 🌱 I’m currently learning SQL, Pl/SQL, T/SQL and .NET framework
 - 💞️ I’m looking to collaborate on Data Analisys stuffs
 - 📫 How to reach me https://www.linkedin.com/in/joao-nery/
 
